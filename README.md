@@ -1,2 +1,2 @@
 # React-Shop
-Repositorio del curso practico de React.js de Platzi
+Repositorio del Curso Practico de React.js de Platzi
