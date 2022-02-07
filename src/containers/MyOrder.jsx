@@ -1,6 +1,6 @@
 import React from 'react';
 import OrderItem from '../components/OrderItem';
-import iconArrow from '../../public/assets/icons/flechita.svg';
+import iconArrow from '@icons/flechita.svg';
 import '../styles/MyOrder.scss';
 
 const MyOrder = () => {

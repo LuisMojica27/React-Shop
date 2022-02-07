@@ -1,6 +1,6 @@
 import React from 'react';
-import logoSale from '../../public/assets/logos/logo_yard_sale.svg';
-import iconEmail from '../../public/assets/icons/email.svg';
+import logoSale from '@logos/logo_yard_sale.svg';
+import iconEmail from '@icons/email.svg';
 import '../styles/SendEmail.scss';
 
 const SendEmail = () => {
